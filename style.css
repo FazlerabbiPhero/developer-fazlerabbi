@@ -63,8 +63,8 @@ body{
 }
 #resume-button{
     text-decoration: none;
-    color: black;
-    background-image: linear-gradient(#757F9A,#D7DDE8);
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(#ff00bf,#a485bd);
     padding: 10px 40px;
     font-weight: 700;
     border-radius: 5px;
@@ -96,11 +96,13 @@ body{
     font-size: 40px;
 }
 .box1{
+    font-weight: 600;
     border-left: 8px solid;
     border-image: linear-gradient( #5e0175,#ffc500);
     border-image-slice: 1;
 }
 .box2{
+    font-weight: 600;
     border-left: 8px solid;
     border-image: linear-gradient(#e9d362,#333333);
     border-image-slice: 1;
