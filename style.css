@@ -7,3 +7,20 @@ h1{
 .orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
+.header-section{
+    width: 50%;
+    padding-left: 5%;
+}
+.header-section img{
+    width: 80%;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(#24C6DC,#514A9D);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
